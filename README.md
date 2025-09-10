@@ -11,6 +11,8 @@ O **PetHealth** é uma API REST desenvolvida com **Spring Boot** para gerenciar 
 - Integração com **Swagger/OpenAPI** para documentação interativa  
 - Arquitetura baseada em **boas práticas e padrões de projeto**  
 
+<img width="913" height="756" alt="{4E60ABAA-92FA-4606-9492-E4FF85F9720E}" src="https://github.com/user-attachments/assets/3163cebb-2d04-4073-a9bd-96b641c5d8a1" />
+
 ---
 
 ## ⚙️ Tecnologias utilizadas
