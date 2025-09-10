@@ -1,5 +1,7 @@
 package com.pethealth.model;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
+
 import jakarta.persistence.*;
 import lombok.*;
 
@@ -20,5 +22,6 @@ public class Pet {
 
     @ManyToOne
     @JoinColumn(name = "tutor_id")
+    @JsonBackReference
     private Tutor tutor;
 }
