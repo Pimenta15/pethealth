@@ -1,7 +1,7 @@
 # 🐾 PetHealth – Sistema de Plano de Saúde Pet
 
 ## 📌 Sobre o projeto
-O **PetHealth** é uma API REST desenvolvida com **Spring Boot** para gerenciar **tutores, pets e agendamentos de consultas veterinárias** baseada em problemas reais de em uma empresa de plano de saúde animal.  
+O **PetHealth** é uma API REST desenvolvida com **Spring Boot** para gerenciar **tutores, pets e agendamentos de consultas veterinárias** baseada em problemas reais com foco em back-end de em uma empresa de plano de saúde animal.  
 
 👉 O sistema inclui:  
 - CRUD completo de **Tutores** e **Pets**  
